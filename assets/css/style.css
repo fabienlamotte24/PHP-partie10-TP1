@@ -1,0 +1,30 @@
+.listForm { 
+    list-style-type: none;
+    border: 1px solid black;
+    text-align:center;
+    background-color:white;
+    border-radius:15px;
+    box-shadow: 3px 3px 5px black;
+    padding-left:0;
+    padding:30px;
+    margin-top:15px;
+}
+.error{
+    color:red;
+}
+.document{
+    background-image:linear-gradient(to top, #8181F7, #070719);
+}
+body{
+    background-image:linear-gradient(to top, #8181F7, #070719);
+}
+.results{
+    list-style-type: none;
+    border: 1px solid black;
+    text-align:center;
+    background-color:white;
+    border-radius:30px;
+    box-shadow: 7px 7px 15px black;
+    padding-left:0;
+    padding:15px;
+}
